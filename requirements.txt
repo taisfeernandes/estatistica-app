@@ -1,11 +1,11 @@
+{"id":"81632"}
 numpy
 packaging
 pandas
 pillow
 plotly
-plotly
 protobuf
-pyarrow
+pyarro
 pydeck
 Pygments
 python-dateutil
@@ -18,7 +18,7 @@ scipy
 seaborn
 six
 smmap
-streamlit
+streamlit>=1.32
 tenacity
 toml
 tornado
@@ -26,4 +26,3 @@ typing_extensions
 tzdata
 urllib3
 watchdog
-st.page
