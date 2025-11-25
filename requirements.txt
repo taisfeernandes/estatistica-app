@@ -26,3 +26,4 @@ typing_extensions
 tzdata
 urllib3
 watchdog
+st-pages
