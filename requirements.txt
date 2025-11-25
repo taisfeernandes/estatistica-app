@@ -2,7 +2,7 @@ numpy
 packaging
 pandas
 pillow
-plotly=
+plotly
 plotly
 protobuf
 pyarrow
@@ -26,4 +26,4 @@ typing_extensions
 tzdata
 urllib3
 watchdog
-st-pages
+st.page
