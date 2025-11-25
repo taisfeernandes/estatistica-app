@@ -1,11 +1,10 @@
-{"id":"81632"}
 numpy
 packaging
 pandas
 pillow
 plotly
 protobuf
-pyarro
+pyarrow
 pydeck
 Pygments
 python-dateutil
@@ -26,3 +25,4 @@ typing_extensions
 tzdata
 urllib3
 watchdog
+
